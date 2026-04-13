@@ -100,17 +100,14 @@ Le modèle atteint **AUC > 0.70 dès la semaine 6** (mi-semestre), validant l'ut
 
 ## Structure du projet
 
+## Structure du projet
+
 ```
 📦 lstm-student-performance/
 ├── Prédiction_Précoce_Performance_Etudiante_FINAL.ipynb  # Notebook principal
-├── requirements.txt                                        # Dépendances Python
-├── saved_models/
-│   ├── lstm_final.pt                                      # Poids finaux du modèle
-│   └── best_model.pt                                      # Meilleur checkpoint (val_loss)
-├── figures/                                               # Visualisations générées
+├── .gitignore
 └── README.md
-```
-
+``````
 ---
 
 ## Installation
