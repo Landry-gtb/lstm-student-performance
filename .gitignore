@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+__pycache__/
+*.pyc
+.env
+*.log
+lstm_final.pt
+best_model.pt
